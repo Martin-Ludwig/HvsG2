@@ -8,3 +8,6 @@ Its best to run on a orignal psp go.
 Unplayable on pc, because time is dependend on frames. A lot of dirty code.
 
 My second game on the HvsG series. The prequel must be somewhere on a dusty hard drive.
+
+
+V2
