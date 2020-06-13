@@ -1,4 +1,4 @@
-# HvsG2
+# HvsG2 - PSP Homebrew Game - 2012**
 **Hero vs Gegner 2 - PSP Homebrew Game - 2012**
 
 HvsG2 is a fast active time battle game developed around 2012.
