@@ -1,0 +1,12 @@
+elite = 3
+ep = 32580
+tp = 7
+hp_buff = 1.23
+ang_buff = 1.03
+heil_buff = 1
+held_def = 3
+tempo_buff = 1
+rang = 1
+rang_ep = 0
+fraktal_stufe = 1
+botlvl = 1
